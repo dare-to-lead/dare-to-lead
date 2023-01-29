@@ -1,4 +1,4 @@
-![Hey there, I'm Anjum. I'm a fullstack developer enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+<img src="https://github.com/dare-to-lead/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
 
 
 
