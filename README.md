@@ -1,14 +1,5 @@
-<p>ANJUM.ME</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h1>I am always hungry<h1>
-<br>
-<br>
-<br> 
+![github bg image](https://user-images.githubusercontent.com/117023049/215329044-98c3a504-37cf-4bae-bf5d-663cbc78b4a7.svg)
+
 ## Hey, I'm <a href="#">Anjum</a>! 
   
 
