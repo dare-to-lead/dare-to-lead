@@ -1,4 +1,4 @@
-<img src="https://github.com/dare-to-lead/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
+<p>ANJUM.ME>
 
 
 
