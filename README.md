@@ -4,7 +4,7 @@
 ## Hey, I'm <a href="#">Anjum</a>! 
   
 
-- 🔭 I’m currently working on **YoutubeSubscriber MERN stack project**
+- 🔭 I’m currently working on **Movies app by fetching news from NewsApi**
 
 - 🌱 I’m currently learning **Backend**
 
